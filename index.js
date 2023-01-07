@@ -2,7 +2,7 @@ const sharp = require('sharp');
 const fs = require('fs');
 const path = require('path');
 
-const imageFiles = ['buggy1.png', 'buggy2.png', 'buggy3.png'];
+const imageFiles = ['buggy1.png'];
 const sizes = [
     { width: 400, height: 210 },
     { width: 640, height: 336 },
